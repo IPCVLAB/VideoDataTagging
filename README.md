@@ -16,6 +16,6 @@
 - dll_lib, yolo 폴더 안에 있는 모든 파일을 /VideoDataTagging/basicVideoPlayer에 복사
 - /VideoDataTagging/basicVideoPlayer 폴더에 result 폴더 생성
 - VideoDataTagging 폴더 안에 basicVideoPlayer.sln 선택 후 release 모드 / x64 솔루션 플랫폼으로 빌드
-- 빌드 후 VideoDataTagging/x64/Release 모드에 crawling.py, GoogleImageSearch.py, chromedriver 복사
+- 빌드 후 VideoDataTagging/x64/Release 모드에 crawling.py, GoogleImageSearch.py 복사
 - basicVideoPlayer.sln 에서 디버그하지 않고 시작(ctrl + f5)
 - Text 박스에 검색  Frame 수를 입력하고 Open 버튼을 눌려 원하는 동영상을 클릭
