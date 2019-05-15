@@ -1,0 +1,6 @@
+
+*.lib
+*.dll
+*.weights
+*.cfg
+*.png
